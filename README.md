@@ -30,3 +30,28 @@ It's a command where players can bid using it.
 <br>**Required Arguments** :- None
 <br>**Aliases**:- None
 <br>**Required Permission/role to run this command** :- None
+### setdifference
+It's the command where you can set difference/increment.
+<br>**Required Arguments** :- <difference>
+Difference can be added with m and b i.e setdifference 4m.
+<br>**Aliases**:- sd
+<br>**Required Permission/role to run this command** :- You need administrator permission or Auctioneer(case sensitive) role to be able to run it.
+### leaderboard
+It's a command where a leaderboard will appear of your own server. Want to delete someone's name from it? simply set his purse to 0
+<br>**Required Arguments** :- None
+<br>**Aliases**:- lb
+<br>**Required Permission/role to run this command** :- None
+### sold
+once a bid is concluded on player, you can end the bids on a player using this.
+<br>**Required Arguments** :- None
+<br>**Aliases**:- None
+<br>**Required Permission/role to run this command** :- You need administrator permission or Auctioneer(case sensitive) role to be able to run it.
+# Management Commands
+### prefix
+It's a command where you can your server's prefix for the bot. Default is $.
+<br>**Required Arguments** :- <prefix>
+<br>**Aliases**:- None
+<br>**Required Permission/role to run this command** :- You need administrator to run this command.
+# Other Commands
+### live
+It shows the live scores of the cricket matches. Though you need to buy premium to use this command.
