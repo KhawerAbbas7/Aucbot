@@ -46,6 +46,16 @@ once a bid is concluded on player, you can end the bids on a player using this.
 <br>**Required Arguments** :- None
 <br>**Aliases**:- None
 <br>**Required Permission/role to run this command** :- You need administrator permission or Auctioneer(case sensitive) role to be able to run it.
+### squad
+You can see your bought players or another user's.
+<br>**Optional Argument**:- [user]
+<br>**Aliases**:- None
+<br>**Required Permission/role to run this command** :- None
+### delete
+You can delete a player from someones squad or even all players.
+<br>**Required Arguments**:-<player><index>
+Index can be all, everyone or max. Want to delete a specific player? Check that player's index by squad command and set index to that index.
+<br>**Required Permission/role to run this command** :- Administrator 
 # Management Commands
 ### prefix
 It's a command where you can your server's prefix for the bot. Default is $.
