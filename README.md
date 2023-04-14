@@ -56,9 +56,9 @@ You can delete a player from someones squad or even all players.
 <br>**Required Arguments**:-<player><index>
 Index can be all, everyone or max. Want to delete a specific player? Check that player's index by squad command and set index to that index.
 <br>**Required Permission/role to run this command** :- Administrator
-### set_automatic_sold_time
-It's an slash command, Only members having Administrator permission can use it. What it does is it sells the player automatically after x seconds. X seconds can be defined by this command. You can disable this feature by giving 0 as a value. However it's adviced to not give a value of minimum than 5. It's a kind of pro command. You need to invite 5 people to support server to get it activated in your one server.
+
 # Management Commands
+
 ### prefix
 It's a command where you can your server's prefix for the bot. Default is $.
 <br>**Required Arguments** :- <prefix>
