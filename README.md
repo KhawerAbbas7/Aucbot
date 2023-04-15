@@ -58,7 +58,8 @@ Index can be all, everyone or max. Want to delete a specific player? Check that 
 <br>**Required Permission/role to run this command** :- Administrator
 
 # Management Commands
-
+### seturgif
+You can set your personalized gifs, pictures. Which will be later shown in squad, balance commands and when someone tries to sell you. You need a direct link to the gif/picture. To know about direct links https://www.wikihow.com/Get-the-URL-for-Pictures
 ### prefix
 It's a command where you can your server's prefix for the bot. Default is $.
 <br>**Required Arguments** :- <prefix>
